@@ -1,3 +1,13 @@
+# my excludes
+
+config/
+data/
+.venv/
+
+
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
