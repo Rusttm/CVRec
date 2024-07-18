@@ -1,5 +1,8 @@
 # my excludes
-
+*.mkv
+*.mp4
+*.jpg
+*.jpeg
 config/
 data/
 .venv/
